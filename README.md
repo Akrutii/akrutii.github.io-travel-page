@@ -1,1 +1,1 @@
-# akrutii.github.io-travel-page
+# akrutii.github.io/travel-page
